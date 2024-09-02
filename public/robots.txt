@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /sepet/
+Disallow: /login/
+Disallow: /register/
+Disallow: /user/
+Disallow: /order-success/
+
+Sitemap: https://www.ferrantericci.com/sitemap.xml
